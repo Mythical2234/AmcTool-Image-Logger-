@@ -1,3 +1,3 @@
-make sure to run me as an admin and make sure to read the github repository:
+make sure to run me as an admin and make sure to read the github repository: https://github.com/Mythical2234/AmcTool-Image-Logger-
 
 DM Amc#0633 for issues
